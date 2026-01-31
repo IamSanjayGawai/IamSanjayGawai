@@ -1,5 +1,36 @@
-# 💫 About Me:
-Sanjay Gawai<br>Senior Full Stack Developer / Project Lead (MERN Stack)<br>Pune, Maharashtra, India<br>Email: sanjaygawai2022@gmail.com<br>Building and leading production-ready full-stack and mobile applications including real-time platforms, fintech systems, and scalable backend architectures using MERN stack and AWS.<br>Advanced system design, scalable backend architectures, cloud optimization on AWS, and performance tuning for real-time applications.<br>Funzo – Live Social Entertainment Platform  <br>Trustline – Loan Management & Multi-Role Fintech Platform  <br>ASNARO – Machinery Rental Platform for Japanese Clients<br>I have experience working with Indian and Japanese clients, leading development teams, mentoring junior developers, and delivering high-concurrency real-time systems used in production.<br>Yes, open to freelance projects, collaborations, and challenging full-stack development opportunities.<br>Portfolio: (Add your portfolio link)<br>LinkedIn: (Add your LinkedIn link)<br>GitHub: https://github.com/<your-username><br>LeetCode: (Add your LeetCode link)<br>
+## 💫 About Me
+
+👨‍💻 Name: Sanjay Gawai  
+📍 Location: Pune, Maharashtra, India  
+💼 Role: Senior Full Stack Developer / Project Lead (MERN Stack)  
+📧 Email: sanjaygawai2022@gmail.com  
+
+### 🧠 Summary
+Full Stack Software Engineer with 2+ years of experience building and leading
+production-ready web and mobile applications. Strong in scalable backend
+architecture, real-time systems, and AWS cloud deployment.
+Experienced in working with Indian and Japanese clients and mentoring teams.
+
+### 🛠 Tech Stack
+Frontend: React.js, Next.js, React Native, Redux Toolkit  
+Backend: Node.js, Express.js, REST APIs, Socket.IO, JWT  
+Database: MongoDB, Redis  
+Cloud: AWS (EC2, S3, Load Balancer, CloudFront)  
+Tools: Git, GitHub, Postman, CI/CD  
+
+### 🚀 Key Projects
+- Funzo: Live Social Entertainment Platform (Real-time streaming & chat)
+- Trustline: Loan Management & Multi-Role Fintech Platform
+- ASNARO: Machinery Rental Platform for Japanese Clients
+
+### 🎯 Current Focus
+- Advanced system design
+- Scalable backend architectures
+- AWS performance & cost optimization
+- High-concurrency real-time applications
+
+### 🤝 Availability
+Open to freelance work, collaborations, and challenging full-stack roles.
 
 
 ## 🌐 Socials:
