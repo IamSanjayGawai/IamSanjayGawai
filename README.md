@@ -24,10 +24,12 @@ Tools: Git, GitHub, Postman, CI/CD
 - ASNARO: Machinery Rental Platform for Japanese Clients
 
 ### 🎯 Current Focus
-- Advanced system design
-- Scalable backend architectures
-- AWS performance & cost optimization
-- High-concurrency real-time applications
+- Advanced system design & scalable backend architectures
+- High-concurrency real-time applications (WebSockets, event-driven systems)
+- AWS performance, cost optimization & cloud-native best practices
+- Generative AI integration (LLMs, AI APIs, workflow automation)
+- AI-assisted backend development & system optimization
+
 
 ### 🤝 Availability
 Open to freelance work, collaborations, and challenging full-stack roles.
